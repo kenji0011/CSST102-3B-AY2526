@@ -1,0 +1,3 @@
+5-Fold Cross-Validation Results:
+Mean Accuracy: 0.9758
+Standard Deviation: 0.0146
